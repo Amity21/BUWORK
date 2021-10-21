@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Corona virus</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700|Anton" rel="stylesheet">
+    
+
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/style.css">
+    
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+  
+  <div class="site-wrap"  id="home-section">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+   
+      
+    <header class="site-navbar js-sticky-header site-navbar-target" role="banner">
+
+      <div class="container">
+        <div class="row align-items-center position-relative">
+          
+            
+            <div class="site-logo">
+              <a href="index.html" class="text-black"><span class="text-primary">corona virus</span></a>
+            </div>
+            
+              <nav class="site-navigation text-center ml-auto" role="navigation">
+
+                <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
+                  <li><a href="#home-section" class="nav-link">Home</a></li>
+                  <li><a href="#about-section" class="nav-link">Infected person</a></li>
+                  <li><a href="#discover-section" class="nav-link">About</a></li>
+                  <li><a href="#howto" class="nav-link">How to Protect</a></li>
+					<li><a href="#arti" class="nav-link">Article</a></li>
+                  <li><a href="#blog-section" class="nav-link">News</a></li>
+                  
+                </ul>
+              </nav>
+          
+            
+
+          <div class="toggle-button d-inline-block d-lg-none"><a href="#" class="site-menu-toggle py-5 js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+
+        </div>
+      </div>
+      
+    </header>
+    
+    <div class="owl-carousel slide-one-item">
+      <a href="#"><img src="ไวรัส/img/1.jpg" alt="Image" class="img-fluid"></a>
+      <a href="#"><img src="ไวรัส/img/corona156.jpg" alt="Image" class="img-fluid"></a>
+    </div>
+    
+    <div class="site-section bg-image overlay counter" style="background-image: url('ไวรัส/img/GettyImages-1197610363.jpg');" id="about-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-lg-6 mb-4">
+                <img src="ไวรัส/img/unnamed.jpg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-5 ml-auto align-self-lg-center">
+            <h2 class="text-black mb-4 text-uppercase section-title">Infected person</h2>
+            <p class="text-black">สำนักข่าวบลูมเบิร์ก รายงานว่า สถานการณ์การแพร่ระบาดของเชื้อไวรัสโคโรน่าสายพันธุ์ใหม่ยังคงทวีความรุนแรงอย่างต่อเนื่อง หลังคณะกรรมการสุขภาพแห่งชาติของจีน (NHC) ยืนยันว่ายอดผู้เสียชีวิตจากเชื้อโคโรน่าได้เพิ่มขึ้นเป็น 425 ราย ขณะที่ผู้ติดเชื้อเพิ่มขึ้นเป็น 20,438 ราย และมีผู้ติดเชื้อที่มีอาการรุนแรง 2,788 ราย โดยผู้เสียชีวิตที่เพิ่มขึ้น 64 รายเมื่อวานนี้เป็นผู้ป่วยที่อาศัยอยู่ในเมืองหูเป่ยทั้งหมด</p>
+            
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 mb-4 col-lg-0 col-lg-3">
+            <div class="block-counter-1">
+              <span class="number"><span data-number="20">0</span></span>
+              <span class="caption text-black">ไทย</span>
+            </div>
+          </div>
+          <div class="col-md-6 mb-4 col-lg-0 col-lg-3">
+            <div class="block-counter-1">
+              <span class="number"><span data-number="11">0</span></span>
+              <span class="caption text-black">สหรัฐ</span>
+            </div>
+          </div>
+          <div class="col-md-6 mb-4 col-lg-0 col-lg-3">
+            <div class="block-counter-1">
+              <span class="number"><span data-number="25">0</span></span>
+              <span class="caption text-black">ญี่ปุ่น</span>
+            </div>
+          </div>
+          <div class="col-md-6 mb-4 col-lg-0 col-lg-3">
+            <div class="block-counter-1">
+              <span class="number"><span data-number="20485">0</span></span>
+              <span class="caption text-black">จีน</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-section bg-light counter" id="discover-section">
+      <div class="container">
+        <div class="row mb-5 justify-content-center">
+          <div class="col-md-7 text-center">
+            <div class="block-heading-1">
+              <h2 class="text-black text-uppercase">About</h2>
+              <p>โรคปอดอักเสบอู่ฮั่น ที่เกิดจากไวรัสโคโรนาสายพันธุ์ใหม่ 2019 กำลังระบาดในจีน โดยเริ่มมีการรายงานว่าพบผู้ป่วยโรคนี้ครั้งแรกเมื่อเดือน ธ.ค. ปีที่แล้ว ที่เมืองอู่ฮั่น มณฑลหูเป่ย์ ตอนกลางของประเทศจีน จนตอนนี้โรคไม่ได้จำกัดอยู่ในพื้นที่ดังกล่าว แต่ยังกระจายไปทุกมณฑลและเขตการปกครองอื่นๆ ของจีนด้วย </p>
+            </div>
+          </div>
+        </div>
+        <div class="row mb-5">
+
+          <div class="col-lg-6 mb-5">
+            <img src="ไวรัส/img/GettyImages-1197610363.jpg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-5 ml-auto align-self-center">
+            <h3 class="text-black text-uppercase mb-4">ไวรัสโคโรน่า</h3>
+            <p class="mb-5">ไวรัสอู่ฮั่น" ที่กำลังระบาดอยู่ในขณะนี้ มีความรุนแรงเทียบเท่ากับโรคซาร์สมากที่สุด ทำให้ผู้ป่วยมีอาการปอดอักเสบรุนแรงจนถึงแก่ชีวิตได้ องค์การอนามัยโลก ยังไม่สามารถหาที่มาของเชื้ออย่างชัดเจนได้ แต่สันนิษฐานว่าอาจจะมาจากเนื้อสัตว์ป่าที่ซื้อขายอยู่ และปัจจุบันเชื้อไวรัสนี้สามารถแพร่กระจายจากคนสู่คนได้แล้ว จากการถูกไอ จาม หรือสัมผัสกับสารคัดหลั่งของคนที่ป่วย ดังนั้น เราควรดูแลตนเองเพื่อให้ร่างกายห่างไกลจากเชื้อไวรัสโคโรน่า</p>
+
+            
+
+            
+          </div>
+
+          
+          
+        </div>
+
+        <div class="row mb-5">
+
+          <div class="col-lg-6 mb-5 order-lg-2">
+            <img src="ไวรัส/img/GettyImages-1195126066.jpg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-5 mr-auto align-self-center order-lg-1">
+            
+            <p class="mb-5">“การระบาดของโรคซาร์ส หรือโรคทางเดินหายใจอักเสบเฉียบพลัน กินเวลาประมาณ 6 เดือน แต่ผมไม่เชื่อว่าการระบาดของเชื้อไวรัสโคโรน่าสายพันธุ์ใหม่จะกินเวลานานขนาดนั้น” จงกล่าว “ไม่น่าเกิดการติดเชื้อขนานใหญ่ในช่วงผู้คนเดินทางกลับจากวันหยุดยาวเนื่องในเทศกาลตรุษจีน แต่ก็ยังต้องดำเนินมาตรการคัดกรองและตรวจหาเชื้อไวรัสฯ ต่อไป”
+
+จีนดำเนินมาตรการทรงพลังชุดใหญ่ โดยเฉพาะการตรวจหาและการคัดแยกผู้ป่วยแต่เนิ่นๆ ทำให้ “เรามีความมั่นใจเพียงพอในการป้องกันการระบาดขนานใหญ่หรือการระบาดซ้ำ ตราบเท่าที่มาตรการตรวจหาและคัดแยกยังคงอยู่ แม้เราต้องทำการวิจัยทางวิทยาศาสตร์อีกมากก็ตาม”</p>
+
+           
+
+          </div>
+      </div>
+    </div>
+  </div>
+
+    
+
+
+
+    <div class="site-section" id="howto">
+      <div class="container">
+		  <div class="text-center">
+              <h2 class="text-black text-uppercase section-title">How to Protect</h2>
+              
+          </div>
+        <div class="row">
+          <div class="col-md-6 col-lg-3 mb-3 text-center">
+            <span><img src="ไวรัส/img/medical-mask.png" alt="Image" width="150" class="img-fluid"></span>
+            <h3 class="text-primary h4 mb-2">ควรใส่หน้ากากอนามัยเพื่อป้องกัน</h3>
+            
+          </div>
+          <div class="col-md-6 col-lg-3 mb-3 text-center">
+            <span><img src="ไวรัส/img/soup.png" alt="Image" width="150" class="img-fluid"></span>
+            <h3 class="text-primary h4 mb-2">ควรทานแบบสุกเท่านั้น</h3>
+            
+          </div>
+          <div class="col-md-6 col-lg-3 mb-3 text-center">
+            <span><img src="ไวรัส/img/beef.png" alt="Image"  width="150" class="img-fluid"></span>
+            <h3 class="text-primary h4 mb-2">งดอาหารดิบ </h3>
+            
+          </div>
+
+          <div class="col-md-6 col-lg-3 mb-3 text-center">
+            <span><img src="ไวรัส/img/hand-wash.png" alt="Image" width="150" class="img-fluid"></span>
+            <h3 class="text-primary h4 mb-2">หมั่นล้างมือ</h3>
+            
+          </div>
+			
+			
+			
+			
+			<div class="col-md-6 col-lg-3 mb-3 text-center">
+            <span><img src="ไวรัส/img/cough.png" alt="Image" width="150" class="img-fluid"></span>
+            <h3 class="text-primary h4 mb-2">ไม่อยู่ใกล้ชิดผู้ป่วยที่ไอ จาม</h3>
+            
+          </div>
+          <div class="col-md-6 col-lg-3 mb-3 text-center">
+            <span><img src="ไวรัส/img/waste.png" alt="Image" width="150" class="img-fluid"></span>
+            <h3 class="text-primary h4 mb-2">หลีกเลี่ยงการอยู่ในสถานที่แออัด และมีมลภาวะเป็นพิษ</h3>
+            
+          </div>
+          <div class="col-md-6 col-lg-3 mb-3 text-center">
+            <span><img src="ไวรัส/img/bacteria.png" alt="Image" width="150" class="img-fluid"></span>
+            <h3 class="text-primary h4 mb-2">งดเดินทางไปยังพื้นที่เสี่ยงโรคระบาด</h3>
+            
+          </div>
+
+          <div class="col-md-6 col-lg-3 mb-3 text-center">
+            <span><img src="ไวรัส/img/dont-touch.png" alt="Image" width="150" class="img-fluid"></span>
+            <h3 class="text-primary h4 mb-2">ไม่นำมือมาสัมผัสตา จมูก ปาก ถ้าไม่จำเป็น</h3>
+            
+          </div>
+
+			
+			
+			
+			
+			
+          <div class="col-md-6 col-lg-6 mb-6 text-center">
+            <span><img src="ไวรัส/img/partner.png" alt="Image" width="150" class="img-fluid"></span>
+            <h3 class="text-primary h4 mb-2">ไม่ใช้สิ่งของร่วมกับผู้อื่น</h3>
+            
+          </div>
+			
+          <div class="col-md-6 col-lg-6 mb-6 text-center">
+            <span><img src="ไวรัส/img/doctor.png" alt="Image" width="150" class="img-fluid"></span>
+            <h3 class="text-primary h4 mb-2">ถ้ามีอาการไข้ มีอาการระบบทางเดินหายใจ ให้สวมหน้ากากอนามัยและรีบไปพบแพทย์</h3>
+            
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="site-section" id="arti">
+      <div class="container">
+        <div class="row mb-5 justify-content-center">
+          <div class="col-md-7 text-center">
+              <h2 class="text-black text-uppercase section-title">article</h2>
+              
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6 mb-4 mb-lg-0" data-aos="fade-up">
+            <div class="block-team-member-1 text-center rounded">
+              <figure>
+                <img src="ไวรัส/img/นพ.เกรียงศักดิ์ อติพรวณิช.jpg" alt="Image" class="img-fluid rounded-circle">
+              </figure>
+              <h3 class="font-size-20 text-black">นพ.เกรียงศักดิ์ อติพรวณิช</h3>
+              <span class="d-block font-gray-5 letter-spacing-1 text-uppercase font-size-12 mb-3">อายุรแพทย์โรคปอด นายแพทย์ชำนาญการพิเศษ โรงพยาบาลราชวิถี</span>
+              <p class="px-3 mb-3">“ปัจจุบันยังไม่มีมาตรฐานในการรักษา เพราะเป็นโรคอุบัติใหม่ เพราะฉะนั้น เมื่อมีใครรายงานว่ารักษาได้ผลก็จะต้องติดตาม และศึกษาทุกวัน ซึ่งแพทย์ทุกคนของกรมการแพทย์ไม่ได้นิ่งนอนใจ ศึกษาและเปิดดูว่ามีรายงานเรื่องการรักษาใหม่ๆขึ้นมากทุกวันหรือไม่ ถ้ามีก็เอามารักษาคนไทยอยู่แล้ว แต่สูตรยาร่วมที่รพ.ราชวิถีใช้ยังไม่เคยมีใครรายงาน ซึ่งอาจจะมีคนใช้แต่ยังไม่มีคนรายงาน" นพ.เกรียงศักดิ์กล่าว </p>
+              <div class="block-social-1">
+                <a href="#" class="btn border-w-2 rounded primary-primary-outline--hover"><span class="icon-facebook"></span></a>
+                <a href="#" class="btn border-w-2 rounded primary-primary-outline--hover"><span class="icon-twitter"></span></a>
+                <a href="#" class="btn border-w-2 rounded primary-primary-outline--hover"><span class="icon-instagram"></span></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
+            <div class="block-team-member-1 text-center rounded">
+              <figure>
+                <img src="ไวรัส/img/Dtbezn3nNUxytg04Oajjhes0gOWEOSyAXVLC9dcKHA2lbX.jpg" alt="Image" width="138" height="125" class="img-fluid rounded-circle">
+              </figure>
+              <h3 class="font-size-20 text-black">จง หนานซาน (Zhong Nanshan)</h3>
+              <span class="d-block font-gray-5 letter-spacing-1 text-uppercase font-size-12 mb-3">ผู้เชี่ยวชาญด้านระบบทางเดินหายใจของจีน</span>
+              <p class="px-3 mb-3">“ยากที่จะประเมินว่าการระบาดจะขึ้นไปถึงจุดสูงสุดเมื่อไร แต่ผมคิดว่าราว 1 สัปดาห์ หรือประมาณ 10 วัน มันจะระบาดถึงขั้นสุด แล้วจะไม่มีการขยายตัวขนานใหญ่อีก” จงกล่าว “กุญแจสำคัญ 2 ดอกในการจัดการกับโรคระบาดคือ ‘ตรวจพบ’ และ ‘คัดแยก’ ผู้ติดเชื้อโดยเร็ว ขั้นตอนเหล่านี้เป็นวิธีการดั้งเดิมและมีประสิทธิภาพมากที่สุด”</p>
+              <div class="block-social-1">
+                <a href="#" class="btn border-w-2 rounded primary-primary-outline--hover"><span class="icon-facebook"></span></a>
+                <a href="#" class="btn border-w-2 rounded primary-primary-outline--hover"><span class="icon-twitter"></span></a>
+                <a href="#" class="btn border-w-2 rounded primary-primary-outline--hover"><span class="icon-instagram"></span></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="block-team-member-1 text-center rounded">
+              <figure>
+                <img src="ไวรัส/img/2020-01-30T200533Z_490246442_RC2KQE90GNBE_RTRMADP_3_CHINA-HEALTH-WHO.jpg" alt="Image" class="img-fluid rounded-circle">
+              </figure>
+              <h3 class="font-size-20 text-black">นายทีโดรส อัดฮานอม กีบรีเยซุส</h3>
+              <span class="d-block font-gray-5 letter-spacing-1 text-uppercase font-size-12 mb-3">ผู้อำนวยการใหญ่องค์การอนามัยโลก</span>
+              <p class="px-3 mb-3">สิ่งที่น่ากังวลคือการแพร่ระบาดของเชื้อไวรัสเข้าไปยังประเทศที่มีระบบสุขภาพที่อ่อนแอ โดยขณะนี้ (31 ม.ค.) มีผู้เสียชีวิตในจีนจากการติดเชื้อไวรัสดังกล่าวแล้ว 213 ราย นอกจากนี้ยังมีการพบผู้ป่วย 98 รายใน 18 ประเทศทั่วโลก แต่ยังไม่มีผู้เสียชีวิตนอกประเทศจีน</p>
+              <div class="block-social-1">
+                <a href="#" class="btn border-w-2 rounded primary-primary-outline--hover"><span class="icon-facebook"></span></a>
+                <a href="#" class="btn border-w-2 rounded primary-primary-outline--hover"><span class="icon-twitter"></span></a>
+                <a href="#" class="btn border-w-2 rounded primary-primary-outline--hover"><span class="icon-instagram"></span></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+    
+    
+
+    
+
+
+    <div class="site-section" id="blog-section">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-7 text-center mb-5 text-center">
+            <h2 class="text-black text-uppercase section-title">news</h2>
+            
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <div>
+              <a href="single.html" class="mb-4 d-block"><img src="ไวรัส/img/aHR0cHM6Ly9zLmlzYW5vb2suY29tL25zLzAvdWQvMTYwNS84MDI2MjQ2L3Nhbm9va190aHVtYm5haWxfMTIwMHg3MjAtMi5qcGc=.jpg" alt="Image" class="img-fluid rounded"></a>
+              <h2><a href="single.html">สธ.แถลง หลังรับคนไทยกลับจากอู่ฮั่น เผย 4 คนถูกส่งตรวจละเอียด เพราะไอ แต่ไม่มีไข้</a></h2>
+              
+              <p>นายสาธิต กล่าวว่า ขณะนี้มีการนำคนไทย 4 ราย ถูกนำตัวส่งเข้ารับการตรวจอย่างละเอียดที่โรงพยาบาลสมเด็จพระนางเจ้าสิริกิติ์ ไม่ใช่ 6 รายตามที่เสนอข่าวไปเมื่อคืนนี้ (4 ก.พ.63) โดยแบ่งเป็นชายอายุ 24 และ 29 ปี หญิงอายุ 29 และ 48 ปี โดยในกลุ่มนี้ มี 3 รายพบอาการไอระคายคอ ขณะที่ผลเอ็กซเรย์เบื้องต้นพบจุดบริเวณปอด ต้องรอผลตรวจอย่างละเอียดอีกครั้งหนึ่ง ขณะที่อีกรายมีอาการท้องเสีย เบื้องต้นทั้ง 4 คนไม่มีอาการไข้</p>
+              
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div>
+              <a href="single.html" class="mb-4 d-block"><img src="ไวรัส/img/aHR0cHM6Ly9zLmlzYW5vb2suY29tL25zLzAvdWQvMTYwNS84MDI2MjY2L3Nhbm9va190aHVtYm5haWxfMTIwMHg3MjAtMi5qcGc=.jpg" alt="Image" class="img-fluid rounded"></a>
+              <h2><a href="single.html">คนขับแท็กซี่ติดเชื้อไวรัสโคโรนา รายแรกของไทย หายดีแล้ว กลับบ้านได้</a></h2>
+              
+              <p>วันนี้ได้รับข่าวดีจากสถาบันบำราศนราดูร ว่าผู้ป่วยชายไทยที่เป็นผู้ป่วยติดเชื้อภายในประเทศไทยรายแรก ซึ่งเข้ารับรักษาที่สถาบันบำราศนราดูร มีอาการค่อนข้างรุนแรง อยู่ในห้องแยกโรคความดันลบ มีทีมแพทย์ให้การดูแลรักษาตามมาตรฐานอย่างใกล้ชิด ทำให้ผู้ป่วยมีอาการดีขึ้นต่อเนื่อง ผลการตรวจทางห้องปฏิบัติการครั้งล่าสุดไม่พบเชื้อไวรัสโคโรนาสายพันธุ์ใหม่2019 แล้ว ถือว่าหายป่วยแพทย์จึงอนุญาตให้กลับบ้านได้</p>
+              
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+    
+
+
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="row">
+              <div class="col-md-8">
+                <h2 class="footer-heading mb-4">contact</h2>
+                <p>Facebook : CoronaTH<br>
+				  Tel : 098-4528925<br></p>
+              </div>
+              
+              
+            </div>
+          </div>
+        </div>
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <div class="border-top pt-5">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |  <i class="icon-heart" aria-hidden="true"></i>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </footer>
+
+  </div>
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/aos.js"></script>
+
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
